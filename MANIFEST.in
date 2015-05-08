@@ -1,0 +1,1 @@
+include version.txt theseus/_cytracer.c theseus/_cytracer.pyx
