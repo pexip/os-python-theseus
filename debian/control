@@ -1,0 +1,15 @@
+Source: python-theseus
+Section: unknown
+Priority: extra
+Maintainer: Pexip AS <packaging@pexip.com>
+Build-Depends: debhelper (>= 8.0.0), dh-python,
+ python-all (>= 2.7), python-setuptools, python2.7-dev,
+ python-twisted, python-pytest
+Standards-Version: 3.9.2
+Homepage: https://github.com/flowroute/twisted-theseus
+
+Package: python-theseus
+Architecture: all
+Depends: ${Python:Depends} ${misc:Depends}
+Description: Python profiler for twisted
+ Python profiler for twisted
