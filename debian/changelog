@@ -1,3 +1,9 @@
+python-theseus (0.14.1.2-2) pexip; urgency=medium
+
+  * Rebuild in buster environment
+
+ -- Steve McIntyre <steve.mcintyre@pexip.com>  Thu, 16 Jul 2020 04:08:09 +0000
+
 python-theseus (0.14.1.2-1) unstable; urgency=low
 
   * Initial release 
